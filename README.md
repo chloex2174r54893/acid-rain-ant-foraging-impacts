@@ -6,7 +6,7 @@ This repository contains the code and data analysis for a student-led research p
 Acid rain is a major ecological stressor in polluted regions. This project aimed to examine how increasing environmental acidity affects the risk-taking and movement behavior of ants, using Rhytidoponera metallica as a model species.
 
 ## Methods
-- **pH treatments**: 3, 3.3, 3.6, 3.9, 4.2, 4.5, 7 (distilled water), and a dry control
+- **pH treatments**: 3, 3.3, 3.6, 3.9, 4.2, 4.5, 7 (distilled water), and a controlled group (no liquid)
 - **Data collection**: Ant counts per quadrant per minute and ant-acid overlaps
 - **Tools used**:  
   - R for data analysis and visualization  
