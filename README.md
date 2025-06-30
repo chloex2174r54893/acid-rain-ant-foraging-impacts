@@ -1,4 +1,5 @@
-# Ant Behavior Under Acid Rain Exposure
+# AnPotential ethological impacts of acid rain on ant foraging behavior and movement patterns in polluted reg
+
 This repository contains the code and data analysis for a student-led research project investigating the effect of acid rain (simulated using sulfuric acid) on ant foraging behavior and movement patterns. The study focused on how varying pH levels influence ant distribution, acid contact, and activity over time.
 
 ## Overview
