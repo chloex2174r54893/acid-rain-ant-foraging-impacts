@@ -16,8 +16,3 @@ Acid rain is a major ecological stressor in polluted regions. This project aimed
 - ANOVA for group comparisons  
 - Time-based interpolation and smoothing using Generalized Additive Models (GAMs)  
 - First derivative analysis to study changes in movement over time  
-
-
-## Citation
-If you use or reference this work, please cite:
-**Chloe Xue, "Potential Ethological Impacts of Acid Rain on Ant Foraging Behavior and Movement Patterns in Polluted Regions", 2025.**
